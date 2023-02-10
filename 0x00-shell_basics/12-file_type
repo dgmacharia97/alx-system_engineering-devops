@@ -1,2 +1,2 @@
 #!/bin/bash
-file/tmp/I am a file
+file -f /tmp/iamafile
